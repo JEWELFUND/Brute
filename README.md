@@ -7,7 +7,7 @@
  $ pip install requests bs4 futures
  $ pip install cython
  $ rm -rf Brute
- $ git clone https://github.com/Yayan-XD/Brute
+ $ git clone https://github.com/JEWELFUND/Brute
  ```
  oke sekarang script sudah terinstall
 #### CARA MENJALANKAN SCRIPT:
